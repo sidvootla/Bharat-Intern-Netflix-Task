@@ -1,2 +1,2 @@
 # Bharat-Intern-Netflix-Task
-A Website with homepage similar to that of Netflix
+A Website with a homepage similar to that of Netflix
